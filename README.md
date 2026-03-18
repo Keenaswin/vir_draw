@@ -45,4 +45,12 @@ The application detects hand landmarks in real time using MediaPipe and allows t
 
 ## Installation
 
-Clone the repository:
+1. Install Python (Recommended: 3.11)
+2. Clone the Repository
+3. Create a Virtual Environment (venv)
+4. Activate Virtual Environment
+5. Upgrade pip
+6. Install Required Libraries
+pip install opencv-python mediapipe numpy
+7. Run the Project
+python main.py
